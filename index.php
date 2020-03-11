@@ -9,7 +9,7 @@
 <section class="principal">
 
 	
-	<h1>BUSQUEDA 123Dsprobando qwertyhggggggggggggggggggggggggggggggggggggggggggggggggggggggggggdesde el sublimesE JUGADORES</h1>
+	<h1>BUSQUE</h1>
 	
 
 	<div class="formulario">
