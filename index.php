@@ -10,6 +10,8 @@
 
 	<h1>BUSCADOR</h1>
 
+	
+
 	<div class="formulario">
 		<label for="caja_busqueda">Buscar</label>
 		<input type="text" name="caja_busqueda" id="caja_busqueda"></input>
