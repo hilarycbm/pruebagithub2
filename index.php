@@ -9,6 +9,7 @@
 <section class="principal">
 
 	<h1>BUSCADOR123</h1>
+	<p>Este si es un HCBM</p>
 
 	<div class="formulario">
 		<label for="caja_busqueda">Buscar</label>
