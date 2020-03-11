@@ -8,7 +8,9 @@
 
 <section class="principal">
 
-	<h1>BUSQUEDA Dsprobando qwertyhggggggggggggggggggggggggggggggggggggggggggggggggggggggggggdesde el sublimesE JsUGADORES</h1>
+	<h1>BUSCADOR</h1>
+
+	
 
 	<div class="formulario">
 		<label for="caja_busqueda">Buscar</label>
