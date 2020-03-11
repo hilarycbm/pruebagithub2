@@ -11,7 +11,7 @@
 	<h1>BUSCADOR</h1>
 
 	
-	<p>Este es un parrafo que no es de HCBM</p>
+	<p>Este es un parrafo 123</p>
 	<div class="formulario">
 		<label for="caja_busqueda">Buscar</label>
 		<input type="text" name="caja_busqueda" id="caja_busqueda"></input>
