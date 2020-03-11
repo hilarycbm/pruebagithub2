@@ -8,8 +8,8 @@
 
 <section class="principal">
 
-	
-	<h1>BUSQUEDA 123Dsprobando qwertyhggggggggggggggggggggggggggggggggggggggggggggggggggggggggggdesde el sublimesE JUGADORES</h1>
+	<h1>BUSCADOR</h1>
+
 	
 	<p>Este es un parrafo que no es de HCBM</p>
 	<div class="formulario">
